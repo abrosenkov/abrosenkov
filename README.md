@@ -1,7 +1,7 @@
 # Hi, I'm Andrey 👋
 
 Junior Full-Stack Developer  
-I build modern, responsive web applications and enjoy turning ideas into real products.
+I build modern, responsive web applications and enjoy working in team-based environments.
 
 📍 Bratislava, Slovakia  
 💼 Open to Junior Frontend / Full-Stack opportunities
@@ -17,13 +17,14 @@ I build modern, responsive web applications and enjoy turning ideas into real pr
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Material UI](https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
 
 ### Backend
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-### Tools & Other
+### Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
@@ -31,23 +32,35 @@ I build modern, responsive web applications and enjoy turning ideas into real pr
 
 ---
 
+## 🧩 Additional Skills
+- Responsive design (Flexbox, Grid)
+- REST API integration
+- Forms & validation
+- State management (basic)
+- Git branches & pull requests
+- Team collaboration & code reviews
+- Working with Figma layouts
+- Basic SEO & web performance
+- Environment variables & npm scripts
+
+---
+
 ## 📌 Featured Projects
 
-🔹 **ToolRent** — marketplace for tool rentals (Full-Stack, personal project)  
+🔹 **ToolRent** — marketplace for tool rentals (**Team project**)  
+&nbsp;&nbsp;&nbsp;• Full-Stack web application  
+&nbsp;&nbsp;&nbsp;• Team collaboration, Git workflow, REST API   
 
-🔹 **WatchSharm** — web application (Team project)  
-&nbsp;&nbsp;&nbsp;• First team project  
-&nbsp;&nbsp;&nbsp;• Frontend development, collaboration, Git workflow  
-
-🔹 **Mebleria** — furniture e-commerce website (Team project)  
+🔹 **Mebleria** — furniture e-commerce website (**Team project**)  
 &nbsp;&nbsp;&nbsp;• React, TypeScript, Material UI  
-&nbsp;&nbsp;&nbsp;• Team collaboration, UI components  
+&nbsp;&nbsp;&nbsp;• UI components, forms, team collaboration 
 
-
+🔹 **WatchSharm** — web application (**First team project**)  
+&nbsp;&nbsp;&nbsp;• Frontend development  
+&nbsp;&nbsp;&nbsp;• Working with Git branches and pull requests 
 
 ---
 
 ## 📫 Contact
-
-- LinkedIn: https://linkedin.com/in/your-link
-- Email: your@email.com
+- LinkedIn: www.linkedin.com/in/andrii-abrosenkov
+- Email: abrosenkov91@gmail.com
