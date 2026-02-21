@@ -1,6 +1,6 @@
 # Hi, I'm Andrey 👋
 
-Junior Full-Stack Developer  
+Full-Stack Developer  
 I build modern, responsive web applications and enjoy working in team-based environments.
 
 📍 Bratislava, Slovakia  
